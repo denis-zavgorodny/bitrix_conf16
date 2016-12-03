@@ -1,2 +1,2 @@
-#http://denis-zavgorodny.github.io/bitrix-2016/
-Формула сайта: Как все сделать правильно
+#http://denis-zavgorodny.github.io/bitrix_conf16/
+Слайды доклада 1.12.2016
